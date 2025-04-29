@@ -1,7 +1,7 @@
 This project aims to develop neural networks that classify sceientific paper abstracts into respective fields.
 
-- first file contains simple feedforward neural networks using BOW & pre trained embeddings.
-- second file contains simpleRNN , LSTM, GRU, BI RNN models.
+- bow_classification.ipynb file contains simple feedforward neural networks using BOW & pre trained embeddings.
+- rnn.ipynb file contains simpleRNN , LSTM, GRU, BI RNN models.
 
 - the data set being used can be downloaded from https://paperswithcode.com/dataset/arxiv-10
 - pre trained embeddings can be downloaded from (you'll need 300d for these files) https://nlp.stanford.edu/projects/glove/
